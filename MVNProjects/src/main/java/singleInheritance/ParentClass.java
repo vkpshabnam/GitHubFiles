@@ -1,0 +1,9 @@
+package singleInheritance;
+
+public class ParentClass {
+	public void method()
+	{
+		System.out.println("Hello");
+	}
+
+}
