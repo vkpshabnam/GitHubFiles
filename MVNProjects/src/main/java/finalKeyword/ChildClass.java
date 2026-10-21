@@ -8,9 +8,9 @@ public class ChildClass extends ParentClass{
 		
 	}
 	
-	public void method1()  //cannot override the parent class method with final keyword
+/*	public void method1()  //cannot override the parent class method with final keyword
 	{
 		System.out.println("This is a child class method");
 	}
-
+*/
 }
