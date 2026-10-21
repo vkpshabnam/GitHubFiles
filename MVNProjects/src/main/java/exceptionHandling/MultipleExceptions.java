@@ -21,7 +21,7 @@ public class MultipleExceptions {
 		}
 		*/
 		
-		catch(Exception e)
+		catch(Exception e) //parent exception
 		{
 			System.out.println(e);
 		}
