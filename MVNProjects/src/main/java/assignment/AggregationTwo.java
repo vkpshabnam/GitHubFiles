@@ -16,11 +16,11 @@ public class AggregationTwo {
 		t.display();
 
 	}
-	public void method1(int x,int y,AggregationOne u)
+	public void method1(int x,int y,AggregationOne o)
 	{
 		this.x=x;
 		this.y=y;
-		this.o=u;
+		this.o=o;
 	}
 	
 	public void display()

@@ -21,7 +21,7 @@ public class ChildClass extends ParentClass{
 	
 	public void method3()
 	{
-		System.out.println("This is a child class isntance method");
+		System.out.println("This is a child class instance method");
 	}
 
 }

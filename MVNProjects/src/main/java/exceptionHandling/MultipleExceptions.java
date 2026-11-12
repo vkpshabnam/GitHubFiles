@@ -8,8 +8,8 @@ public class MultipleExceptions {
 		try 
 		{
 			int a[]=new int[6];
-			a[6]=7/0;		
-			
+		//	a[6]=7/0;		
+			System.out.println(a[7]);
 		}
 		catch(ArrayIndexOutOfBoundsException a)
 		{
